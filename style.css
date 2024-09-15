@@ -22,19 +22,18 @@ nav{
 nav a {
    text-decoration: none;
    padding: 20px 20px;
-   background-color: aquamarine;
+   background-color: #e5c25c;
    color: black;
    border-radius: 20px;
 }
 
 .main_img{
-    width: 80%;
-    height: 60%;
+    width: 720px;
 }
 
 h1 {
     font-size: 36px;
-    color: red;
+    color: #de7200;
     font-weight: normal;
     padding-bottom: 5px;
     text-align: center;
